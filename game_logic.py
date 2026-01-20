@@ -20,17 +20,17 @@ lose_counter = 0
 troll_counter = 0
 
 print(f'\n{BOLD}{BLUE}Hello and welcome to "Fun with ROCK, PAPER, SCISSORS, LIZARD or SPOCK!"\n'
-      f'Here are the game rules:'
-      f'Scissors cuts Paper'
-      f'Paper covers Rock'
-      f'Rock crushes Lizard'
-      f'Lizard poisons Spock'
-      f'Spock smashes Scissors'
-      f'Scissors decapitates Lizard'
-      f'Lizard eats Paper'
-      f'Paper disproves Spock'
-      f'Spock vaporizes Rock'
-      f'(and as it always has) Rock crushes Scissors')
+      f'\nHere are the game rules:'
+      f'\n\nScissors cuts Paper'
+      f'\nPaper covers Rock'
+      f'\nRock crushes Lizard'
+      f'\nLizard poisons Spock'
+      f'\nSpock smashes Scissors'
+      f'\nScissors decapitates Lizard'
+      f'\nLizard eats Paper'
+      f'\nPaper disproves Spock'
+      f'\nSpock vaporizes Rock'
+      f'\n(and as it always has) Rock crushes Scissors\n')
 input('Press ENTER to continue and have fun! ')
 game_mode = input(f'\n{MAGENTA}Would you like to play against the computer or another human? Type "COMPUTER" or "HUMAN" ').lower()
 
