@@ -13,3 +13,6 @@
 
 **Roadmap**
 - PvP implementation coming soon
+
+**HOW TO PLAY**
+- Simply download the Rock-Paper-Scissors-Lizard-Spock.7z, unzip it where you want and play!
