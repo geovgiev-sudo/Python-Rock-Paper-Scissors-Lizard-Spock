@@ -2,6 +2,8 @@
 
 # 🖖 ROCK-PAPER-SCISSORS-LIZARD-SPOCK 🖖
 ## 👉 A simple Python console game made inspired by the TV Series 'Big Bang Theory' 👈
+## HOW TO PLAY ##
+- Simply download the Rock-Paper-Scissors-Lizard-Spock.7z, unzip it where you want and play!
 ### 👌 Features 👌
 **Core functionality**
 - User greeting
@@ -13,6 +15,3 @@
 
 **Roadmap**
 - PvP implementation coming soon
-
-**HOW TO PLAY**
-- Simply download the Rock-Paper-Scissors-Lizard-Spock.7z, unzip it where you want and play!
