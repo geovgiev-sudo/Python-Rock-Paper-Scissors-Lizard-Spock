@@ -1,9 +1,12 @@
 ![](/assets/Sheldon_Picture.jpg)
 
 # 🖖 ROCK-PAPER-SCISSORS-LIZARD-SPOCK 🖖
+
 ## 👉 A simple Python console game made inspired by the TV Series 'Big Bang Theory' 👈
+
 ## :playground_slide: HOW TO PLAY :playground_slide: ##
-**Click on the Rock-Paper-Scissors-Lizard-Spock.7z archive!**
+
+###Click on the Rock-Paper-Scissors-Lizard-Spock.7z archive!###
 
 ![](/assets/how_to_play_instructions1.jpg)
 
