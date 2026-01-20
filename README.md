@@ -5,8 +5,8 @@
 ## :playground_slide: HOW TO PLAY :playground_slide: ##
 **Simply download the Rock-Paper-Scissors-Lizard-Spock.7z, unzip it where you want and play!**
 
-![](how_to_play_instructions1)
-![](how_to_play_instructions2)
+![](/assets/how_to_play_instructions1)
+![](/assets/how_to_play_instructions2)
 
 ### 👌 Features 👌
 **Core functionality**
