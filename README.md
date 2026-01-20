@@ -7,5 +7,3 @@
 - User greeting
 - Game rules explained
 - Core game logic
-
-![](Sheldon_Picture.jpg)
