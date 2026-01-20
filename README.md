@@ -7,3 +7,9 @@
 - User greeting
 - Game rules explained
 - Core game logic
+- Replay option
+- Display results and percentage
+- All wrapped up in nice colours
+
+**Roadmap**
+- PvP implementation coming soon
