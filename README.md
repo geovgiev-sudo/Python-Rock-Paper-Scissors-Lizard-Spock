@@ -2,7 +2,7 @@
 
 # 🖖 ROCK-PAPER-SCISSORS-LIZARD-SPOCK 🖖
 
-## 👉 A simple Python console game made inspired by the TV Series 'Big Bang Theory' 👈
+## 👉 A simple Python console game inspired by the TV Series 'Big Bang Theory' 👈
 
 ## :playground_slide: HOW TO PLAY :playground_slide: ##
 
